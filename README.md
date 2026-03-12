@@ -59,3 +59,9 @@ Me interesa especialmente la **arquitectura de software**, el diseño de sistema
 If you want to collaborate or discuss ideas about systems, software design, or technology:
 
 - GitHub: https://github.com/sclavijot-code
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sclavijot-code/sclavijot-code/blob/output/github-contribution-grid-snake.svg)
